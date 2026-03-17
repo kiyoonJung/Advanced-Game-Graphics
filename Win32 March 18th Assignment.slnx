@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Win32 March 18th Assignment/Win32 March 18th Assignment.vcxproj" />
+</Solution>
